@@ -1,0 +1,1 @@
+{\n  "buildCommand": "npm run build",\n  "outputDirectory": "dist",\n  "env": {\n    "VITE_API_URL": "https://your-railway-backend-url"\n  }\n}
