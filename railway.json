@@ -1,0 +1,1 @@
+{\n  "DATABASE_URL": "<your_database_url>",\n  "NODE_ENV": "production",\n  "PORT": "3000"\n}
